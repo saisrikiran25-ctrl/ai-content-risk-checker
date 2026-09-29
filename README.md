@@ -38,7 +38,7 @@ For every flag, the app explains **what was flagged**, **why it matters**, **how
 No build step required. Pure HTML + CSS + JavaScript.
 
 ### Option 1: Visit the Live Site (GitHub Pages)
-Visit: [AI Content Risk Checker Live](https://saisrikiran25-ctrl.github.io/AI_Risk_Checker/)
+Visit: [AI Content Risk Checker Live](https://saisrikiran25-ctrl.github.io/ai-content-risk-checker/)
 
 ### Option 2: Open index.html directly
 Simply double-click the [index.html](file:///c:/Users/Sai%20Kiran/Downloads/New%20folder%20(4)/index.html) file to open the application in any web browser.
